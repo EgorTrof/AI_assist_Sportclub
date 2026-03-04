@@ -1,4 +1,4 @@
-[Скриншот] (https://github.com/EgorTrof/AI_assist_Sportclub/blob/main/Телеграмм.png?raw=true))
+Скриншот(https://github.com/EgorTrof/AI_assist_Sportclub/blob/main/Телеграмм.png?raw=true))
 
 **ИИ-ассистент для Спортивного клуба единоборств** — это умный чат-бот в Telegram, созданный для повышения качества обслуживания клиентов и автоматизации рутинных задач администратора.
 
